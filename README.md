@@ -5,7 +5,7 @@ At first i would like to tell you why i named it "PIXACULAR", so pixacular is in
  
 So the idea is COLORIZING the old or black and white PICS by using Artificial Intelligence Modules ain't it SPECTACULAR.
 
-(haha Apologies for being on height of logiclessness LOL :o )
+(o: Apologies for being on height of logiclessness LOL :o )
 
 
 # INTRODUCTION
