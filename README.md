@@ -36,3 +36,10 @@ The input it takes from the Image is the "L" component that is the light which w
 
 Isn't it spectacular ,how the machine understands the composition of colors and contrast to produce its own sense of colorizing the uncoloured pics.
 
+# Machine and Config's
+
+I have done this Project on my local machine since no training required so no heavy hardware thanks to Prof.Zhang and team for making the models public Well U can find them here.
+
+https://github.com/richzhang/colorization/blob/master/models/fetch_release_models.sh
+
+Now all you need is Anaconda with Python verion 3.x (3.6 in case of mine and recommended as it works well with OpenCV ) and OpenCV 4.x.
